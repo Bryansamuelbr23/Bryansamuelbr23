@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 📑📚
 
-<!--
-**Bryansamuelbr23/Bryansamuelbr23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prazer, Meu nome é Bryan Samuel**🧑
 
-Here are some ideas to get you started:
+- Estou cursando o programa [Alura](https://www.alura,br)📖
+- Estou desenvolvendos projetos no gihub atráves do alura📊
+- utilizo o gihub como um espaço de liguangems é códigos📇
+- Estou me divertindo com os projetos do alura🗃️
+- estou compartilhando os meu projetos é os códigos atráves do gihub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso queira entrar em contato comigo 📫📧
+
+**Email**📫00001139730046sp@al.educacao.sp.gov.br📧
+
+**Rede social**🧾 @Samuel_sp2024
+
+
+
+![](https://media.tenor.com/2tpYSeH4-vMAAAAM/spongebob-squarepants-inspiration.gif)
