@@ -7,7 +7,8 @@
 - utilizo o gihub como um espaço de liguangems é códigos📇
 - Estou me divertindo com os projetos do alura🗃️
 - estou compartilhando os meu projetos é os códigos atráves do gihub
-
+- Meu novo projeto na plataforma [scratch] (https://scratch.mit.edu)
+- Projeto no [scratch] (https://scratch.mit.edu/projects/1088908257)
 ### Caso queira entrar em contato comigo 📫📧
 
 **Email**📫00001139730046sp@al.educacao.sp.gov.br📧
