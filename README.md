@@ -7,7 +7,11 @@
 - utilizo o gihub como um espaço de liguangems é códigos📇
 - Estou me divertindo com os projetos do alura🗃️
 - estou compartilhando os meu projetos é os códigos atráves do gihub
-- Meu novo projeto na plataforma [scratch] (https://scratch.mit.edu)
+- Aqui estão alguns proejtos desenvolvidos através do scratch e o p5js. java script na plataforma [scratch] (https://scratch.mit.edu) [P5.js] (https://editor.p5js.org/)
+- priemiro projeto feito no scrtch
+- (https://scratch.mit.edu/projects/1088908257)
+- segundo projeto feito no scratch
+- (https://scratch.mit.edu/projects/1094780679)
 - Projeto no [scratch] (https://scratch.mit.edu/projects/1088908257)
 ### Caso queira entrar em contato comigo 📫📧
 
