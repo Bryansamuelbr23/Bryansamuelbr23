@@ -15,7 +15,7 @@
 - Primeiro proejto feito no java script
 - (https://editor.p5js.org/Bryansamuelbr23/sketches/MpSlJeOfR)
 - Seundo Projeto
-- (https://editor.p5js.org/Bryansamuelbr23/sketches/TwY8OvZci)/(https://editor.p5js.org/Bryansamuelbr23/sketches/TwY8OvZci)
+- (https://editor.p5js.org/Bryansamuelbr23/sketches/TwY8OvZci)/ (https://editor.p5js.org/Bryansamuelbr23/sketches/TwY8OvZci)
 ### Caso queira entrar em contato comigo 📫📧
 
 **Email**📫00001139730046sp@al.educacao.sp.gov.br📧
