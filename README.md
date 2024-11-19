@@ -9,13 +9,13 @@
 - Estou compartilhando os meu projetos é os códigos atráves do gihub
 **Aqui estão alguns proejtos desenvolvidos através do scratch e o p5js. java script na plataforma [scratch] (https://scratch.mit.edu) [P5.js] (https://editor.p5js.org/)**
 - Priemiro projeto feito no scrtch
-- (https://scratch.mit.edu/projects/1088908257)
+- (https://scratch.mit.edu/projects/1088908257) 
 - Segundo projeto feito no scratch
 - (https://scratch.mit.edu/projects/1094780679)
 - Primeiro projeto feito no java script
 - ((https://editor.p5js.org/Bryansamuelbr23/full/4v9a2rSuT)
-- Seundo Projeto
-- (https://editor.p5js.org/Bryansamuelbr23/full/TwY8OvZci)/ (https://editor.p5js.org/Bryansamuelbr23/sketches/TwY8OvZci)
+- Segundo Projeto
+- (https://editor.p5js.org/Bryansamuelbr23/sketches/MpSlJeOfR)
 ### Caso queira entrar em contato comigo 📫📧
 
 **Email**📫00001139730046sp@al.educacao.sp.gov.br📧
